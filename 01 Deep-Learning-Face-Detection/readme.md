@@ -1,4 +1,4 @@
-####### READ-ME #####
+####### READ-ME #######
 
 We have three required arguments:
 
